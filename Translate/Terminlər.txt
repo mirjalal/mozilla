@@ -1,0 +1,45 @@
+Tərcümədə istifadə edilən terminlər:
+(Qarşısı boş qalanların tərcüməsi hələ tam deyil)
+(Əlifba sırasına görə)
+A B C D E F G H I G K L M N O P Q R S T U V W X Y Z
+
+Add-ons
+
+Backup - Yedək
+Backup(verb) - Yedəklə(mək)
+Bookmark - Əlfəcin
+Bookmark(verb) - Əlfəcinlə(mək)
+Browser - Səyyah
+Browsing - Səyahət
+Close - Qapat
+Connect - Bağlan
+Cookie - Kuki
+Copy - Nüsxələ
+Customize - Şəxsiləşdir
+Default - Varsayılan,uyğun yerlərdə əsas.Əsas səyyah.
+Desktop - Masaüstü
+
+Developer
+
+Download - Endir(mək)
+Donate - İanə
+
+Feed
+
+Frame - Çərçivə
+Link - Keçid
+History - Tarixçə
+Notifications - Bildirişlər
+Options - Seçimlər
+Preferences - Nizamlamalar
+Save - Saxla(maq)
+Settings - Tənzimləmələr
+Site - Sayt
+Synchronize - Sinxronlaşdır
+Sync - Sinxronlaşdır
+Tab - Siğmə
+Update - Yenilə
+Upload - Yükləmək
+is up to date - güncəldir
+Web - Veb
+Website - veb sayt
