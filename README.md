@@ -1,4 +1,4 @@
-mozilla
+Mozilla Azerbaijan
 =======
 
-Mozilla Azerbaijan
+Mozilla Azerbaijan Community
