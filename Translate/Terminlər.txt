@@ -13,10 +13,10 @@ Browser - Səyyah
 Browsing - Səyahət
 Close - Qapat
 Connect - Bağlan
-Cookie - Kuki
+Cookie - Çərəz
 Copy - Nüsxələ
 Customize - Şəxsiləşdir
-Default - Varsayılan,uyğun yerlərdə əsas.Əsas səyyah.
+Default - İlkin Vəziyyət, uyğun yerlərdə əsas: Əsas səyyah.
 Desktop - Masaüstü
 
 Developer
@@ -37,7 +37,7 @@ Settings - Tənzimləmələr
 Site - Sayt
 Synchronize - Sinxronlaşdır
 Sync - Sinxronlaşdır
-Tab - Siğmə
+Tab - Vərəq
 Update - Yenilə
 Upload - Yükləmək
 is up to date - güncəldir
