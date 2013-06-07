@@ -1,4 +1,5 @@
 Tərcümədə istifadə edilən terminlər:
+# - Yeni sözlər
 (Qarşısı boş qalanların tərcüməsi hələ tam deyil)
 (Əlifba sırasına görə)
 A B C D E F G H I G K L M N O P Q R S T U V W X Y Z
@@ -14,13 +15,16 @@ Browsing - Səyahət
 Close - Qapat
 Connect - Bağlan
 Cookie - Çərəz
-Copy - Nüsxələ
+Copy - Köçür
 Customize - Şəxsiləşdir
 Default - İlkin Vəziyyət, uyğun yerlərdə əsas: Əsas səyyah.
 Desktop - Masaüstü
 
 Developer
 
+#Debugger - Tənzimləyici
+#Debugging - Tənzimləmə
+#Debug - Tənzimlə
 Download - Endir(mək)
 Donate - İanə
 
@@ -28,9 +32,11 @@ Feed
 
 Frame - Çərçivə
 Link - Keçid
+#Anchor - Lövbər
 History - Tarixçə
 Notifications - Bildirişlər
 Options - Seçimlər
+#Pop-up - Peyda olan
 Preferences - Nizamlamalar
 Save - Saxla(maq)
 Settings - Tənzimləmələr
@@ -42,4 +48,4 @@ Update - Yenilə
 Upload - Yükləmək
 is up to date - güncəldir
 Web - Veb
-Website - veb sayt
+Website - vebsayt
