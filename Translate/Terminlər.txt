@@ -47,5 +47,5 @@ Tab - Vərəq
 Update - Yenilə
 Upload - Yükləmək
 is up to date - güncəldir
-Web - Veb
-Website - vebsayt
+Web - Web
+Website - Websayt
