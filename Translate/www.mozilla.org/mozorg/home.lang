@@ -1,0 +1,189 @@
+## NOTE: demo server for home page is https://www-dev.allizom.org
+
+
+;Home of the Mozilla Project
+Mozilla Layihəsinin Ana Səhifəsi
+
+
+# Used as a label for a button that scrolls through latest news.
+;Next article
+Növbəti məqalə
+
+
+# Used as a label for a button that scrolls through latest news.
+;Previous article
+Əvvəlki məqalə
+
+
+# The Mozilla wordmark appears inline as part of this headline, so it reads as "We are Mozilla"
+;We are %(mozilla_wordmark)s
+Biz %(mozilla_wordmark)syıq
+
+
+;Doing good is part of our code
+Yaxşı etmək bizim kodeksimizin bir hissəsidir
+
+
+;Get involved
+Qoşul
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Explore</i> our mission
+Bizim missiyamızı <i>Araşdır</i>
+
+
+;Our principles guide us
+Prinsiplərimiz əməllərimizi təyin edir
+
+
+;We’re a global community of technologists, thinkers and builders working to keep the Internet alive and accessible.
+Biz texnalogiya həvəskarları, düşünənlər və quruculardan ibarət qlobal cəmiyyət olaraq İnternetin canlı və əlçatan qalması üçün çalışırıq.
+
+
+;Read more about our mission
+Missiyamız haqqında ətraflı oxu
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Look</i> ahead
+İrəliyə <i>Baxın</i>
+
+
+;Look ahead
+İrəliyə baxın
+
+
+;We‘re bringing more people to the Web in more ways and from more places than ever before.
+Biz indiyə qədər olandan daha çox insanın daha çox yollarla və daha çox yerlərdən Webə bağlanmasını təmin edirik.
+
+
+;Learn more about Firefox OS
+Firefox OS haqqında ətraflı öyrənin
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Join</i> our community
+Bizim cəmiyyətə <i>Qoşulun</i>
+
+
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;Join our<br> developer community
+Proqramçılar cəmiyyətimizə<br> qoşulun
+
+
+;Get docs and demos, tools and tutorials and everything related to the Open Web.
+Sənədləri, nümunələri, alətləri və Açıq Web üçün hər şeyi əldə et.
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Forge</i> the future
+Gələcəyi <i>Təyin edin</i>
+
+
+;Mozilla Festival
+Mozilla Festivalı
+
+
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;Forge the future<br> of the Web
+İnternetin gələcəyini<br> təyin edin
+
+
+;Learn from some of the most passionate thinkers and inventors from around the world.
+Dünyanın ən qızğın düşünən və ixtiraçılarından öyrən.
+
+
+;Come to the Mozilla Festival
+Mozilla Festivalına gəlin
+
+
+;Different by&nbsp;design
+Həvəslə Hazırlanıb
+
+
+# This string is displayed only for locales with a press agency blog
+;In the news
+Xəbərlərdə
+
+
+# This string is displayed only for locales with a press agency blog
+;See all news
+Bütün xəbərləri göstər
+
+
+# This string is displayed only for locales where we launch Firefox OS soon
+;Help launch Firefox OS in your country.
+Firefox OS-u öz ölkəndə buraxmaq üçün kömək edin.
+
+
+# This string is displayed only for locales where we launch Firefox OS soon
+;Become a Mobilizer today.
+Mobilləşdirən ol.
+
+
+;You don’t have to know how to code to get involved with Mozilla. <a href="%s">Learn more about our volunteer opportunities</a>.
+Mozillaya qoşulmaq üçün kodlaşdırma bilməyiniz tələb olunmur. <a href="%s">Bizim könüllülük imkanlarımız haqqında ətraflı öyrən</a>.
+
+
+;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
+Qlobal cəmiyyətimiz sayəsində Mozilla məhsulları və saytları 70-dən çox dildə mövcuddur. <a href="%(link_l10n)s">Onların dilinizə tərcüməsinə kömək edin</a>.
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Watch</i> the watchers
+<i>İzlə</i> səni izləyənlər
+
+
+# Lightbeam promo
+;See who’s watching you online
+Sizi onlayn izləyənləri görün
+
+
+# Lightbeam promo
+;Shine a light on the third parties that are collecting data about your online activity.
+Sizin onlayn aktivlik məlumatlarınızı toplayan üçüncü tərəfləri İşıqlandırın.
+
+
+;Install the Lightbeam add-on
+Lightbeam əlavəsini qurun
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Learn</i> the Web
+<i>Web-i</i> Öyrən
+
+
+# Webmaker promo
+;We teach the Web
+Biz Web-i öyrədirik
+
+
+;Let‘s explore, tinker and create together to build a Web that‘s open and made by everyone.
+Gəlin açıq və hər kəs tərəfindən qurulmuş Web üçün birlikdə kəşf edək, əlləşək və yaradaq.
+
+
+;Become a Webmaker
+Webmaker Ol
+
+
+# New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>See</i> the new MDN
+<i>Yeni</i> MDN Gör
+
+
+# New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;See what’s new <br>for developers
+Proqramçılar üçün <br>yeniliklərlə tanışın
+
+
+# New MDN promo:
+;Our community hub for docs, demos and other resources just got a brand new look.
+Bizim sənədlər, nümunələr və digər qaynaqlarımız üçün olan topluluq mərkəzimiz tamamilə yeni görünüş aldı.
+
+
+# New MDN promo:
+;Visit the Mozilla Developer Network
+Mozilla Proqramçılar Şəbəkəsini ziyarət et
+
+
