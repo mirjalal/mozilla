@@ -42,7 +42,7 @@ Endirməniz avtomatik başlamalıdır. Əgər başlamasa, <a id="%s" href="">bur
 
 
 ;When prompted, drag the Firefox icon into the image of your Applications folder.
-When prompted, drag the Firefox icon into the image of your Applications folder.
+Açıldığında, Firefox ikonunu Proqramlarınız qovluğunun şəklinin üzərinə daşıyın.
 
 
 ;Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the steps (we've made the process as painless as possible).
@@ -119,8 +119,16 @@ Təzə nüsxəni Endir
 Mobil cihazlar üçün Firefox haqqında ətraflı öyrən
 
 
-;Learn more about Firefox OS?
-Firefox OS haqqında ətraflı öyrən?
+;Learn more about Firefox OS
+Firefox OS haqqında ətraflı öyrənin
+
+
+;Get Firefox on your Android device
+Firefox-u Android cihazınızda işlədin
+
+
+;Learn about Firefox OS
+Firefox OS haqqında öyrənin
 
 
 ;Discover all the ways to take Firefox on the go
