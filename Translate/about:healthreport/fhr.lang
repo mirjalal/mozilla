@@ -1,14 +1,13 @@
 ;Firefox Health Report
-Firefox Health Report
+Firefox Sağlamlıq Hesabatı
 
 
 ;Raw Data
-Raw Data
+Emal Olunmamış Verilən
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
-
+Firefox-unuzun versiyasının anlayış və məhsuldarlığı haqqında məlumat alın.
 
 ;Learn more...
 Ətraflı öyrən...
@@ -19,27 +18,27 @@ Məlumat Paylaşma
 
 
 ;ON
-ON
+Qoşuludur
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Siz məlumatın Mozilla ilə paylaşımını dayardırmısınız, lakin siz hələ də səyyahınızın məhsuldarlığına baxa bilərsiniz.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Sizin Sağlamlıq Hesabatı məlumatınız həm də Mozilla-nın serverlərindən silinəcək. Ətraflı olaraq bizim <a href="%(privacy_url)s">məxfilik siyasətində</a> öyrənin.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Siz bəzən öz məlumatını Mozilla ilə palaşmağı seçmisiniz. Veb üçün daha parlaq gələcək qurmaq missiyaasının bir parçası olduğunuz üçün təşəkkür edirik.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Bizim məlumatlarınızı necəəldə etdiyimizi <a href="%(privacy_url)s">məxfilik siyasəti</a> öyrənin.
 
 
 ;Vital Stats
-Vital Stats
+Vital Statistikaları
 
 
 ;version
@@ -51,87 +50,84 @@ time open
 
 
 ;last crash
-last crash
+son qəza
 
 
 ;bookmarks
-bookmarks
+əlfəcinlər
 
 
 ;This Month
-This Month
+Bu Ay
 
 
 ;crashes
-crashes
+qəzalar
 
 
 ;Add-ons
-Add-ons
-
+Əlavələr
 
 ;View List
-View List
-
+Görünüş siyahısı
 
 ;enabled
-enabled
-
+aktivləşdirilib
 
 ;disabled
-disabled
+deaktivləşdirilib
 
 
 ;Plugins
-Plugins
+Əlavə hissə
 
 
 ;always activate
-always activate
+həmişə aktivləşdirin
 
 
 ;ask to activate
-ask to activate
+aktivləşdirmə üçün soruşun
 
 
 ;never activate
-never activate
+heç vaxt aktivləşdirmə
 
 
 ;Tips
-Tips
+İpucları
 
 
 ;Wear and Tear
-Wear and Tear
+Köhnəltmək
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Görünür sizin səyyah son vaxtlarda bir neçə dəfə qəzaya uğrayıb. Ətraflı öyrənmək üçün:
 
 
 ;OFF
-OFF
+Qoşulu deyil
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Bizim <a href="%(sumo_url)s">dəstək veb səhifəmizi</a> ziyarət edin
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Daha çox <a href="%(details_url)s">ətraflı məlumata</a> baxın
 
 
 ;pages visited
-pages visited
+səhifələr ziyarət olunub
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Sizin səyyah adi hala nisbətən daha yavaş işləyir. Ətraflı öyrənmək üçün:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Siz həmçinin maraqlı və ətraflı məlumatı səyyahınızda görə bilərsiniz. Bəzi trendləri görə bilmək üçün bir neçə həftə gerini yoxlayın.
 
 
 ;Startup Time by Day
@@ -139,15 +135,15 @@ Startup Time by Day
 
 
 ;Graph:
-Graph:
+Qrafik:
 
 
 ;Average
-Average
+Orta
 
 
 ;All
-All
+Hamısı
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
@@ -171,11 +167,10 @@ The Firefox Health Report (FHR) has 4 categories of metrics:
 
 
 ;Configuration
-Configuration
-
+Konfiqurasiya
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Cihaz təminatı, əməliyyat sistemi, Firefox versiyası
 
 
 ;Customizations
