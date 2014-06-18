@@ -37,15 +37,15 @@ History - Tarixçə
 Notifications - Bildirişlər
 Options - Seçimlər
 #Pop-up - Peyda olan
-Preferences - Nizamlamalar
+Preferences - Tənzimləmələr
 Save - Saxla(maq)
-Settings - Tənzimləmələr
+Settings - Parametrlər
 Site - Sayt
-Synchronize - Sinxronlaşdır
+Synchronize - Sinxronizasiya
 Sync - Sinxronlaşdır
 Tab - Vərəq
 Update - Yenilə
 Upload - Yükləmək
 is up to date - güncəldir
-Web - Web
-Website - Websayt
+Web - Veb
+Website - Vebsayt
