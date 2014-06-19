@@ -9,6 +9,7 @@ Emal Edilməmiş Verilən
 ;Get insights and performance information about your version of Firefox.
 Firefox-unuzun versiyasının anlayış və məhsuldarlığı haqqında məlumat alın.
 
+
 ;Learn more...
 Ətraflı öyrən...
 
@@ -95,7 +96,7 @@ heç vaxt aktivləşdirmə
 
 
 ;Tips
-İpucları
+Məsləhətlər
 
 
 ;Wear and Tear
@@ -119,7 +120,7 @@ Daha <a href="%(details_url)s">ətraflı məlumata</a> baxın
 
 
 ;pages visited
-səhifələr ziyarət olunub
+ziyarət olunmuş səhifələr
 
 
 ;Your browser seems to be running slower than usual. To learn more:
@@ -131,7 +132,7 @@ Səyyahınızı işlətdikcə daha çox maraqlı və ətraflı məlumatlar gör�
 
 
 ;Startup Time by Day
-Startup Time by Day
+Günlük Başlama Vaxtı
 
 
 ;Graph:
@@ -186,11 +187,11 @@ Məhsuldarlıq
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Səyyah hadisələri, (render), sessiya bərpası müddəti
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Sessiyanın uzunluğu, profilin yaşı, qəzaların sayı, səhifələrin sayı
 
 
 ;Detailed Description
@@ -234,7 +235,7 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-Tətbiqin konfiqurasiya olunmuş adı (misal üçün: Firefox/Aurora/Nightly)
+Tətbiqin konfiqurasiya olunmuş adı (məsələn: Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -258,7 +259,7 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Hal-hazırda istifadə olunan yer
+Hal-hazırda istifadə olunan dil
 
 
 ;Amount of RAM in megabytes
@@ -274,7 +275,7 @@ Hal-hazırda işləyən Əməmliyyar Sisteminin (kernel) versiyası
 
 
 ;The build identifier of the Gecko platform code
-Gecko platforma kodunun qurğu təyin edicisi
+Gecko platforma kodunun qurğu identifikatoru
 
 
 ;The version of the Gecko platform code
@@ -286,15 +287,15 @@ Prosessor arxitekturası
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+ Bu versiyanın tarixi ilk dəfə quraşdırma profilində istifadə olunub. 
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Bu quraşdırma profili ilə istifadə olunmuş tətbiqin versiyası 
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Bu növ əlavələrin sayı bu tarixdə profildə artıq mövcuddur
 
 
 ;<var>True</var> if the application automatically disabled the add-on
@@ -302,23 +303,23 @@ The number of add-ons of this type that existed in the profile on this date
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Bu əlavə ya istifadəçi tərəfindən ya da avtomatik şəkildə başqa tətbiq tərəfindən yüklənilib.
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Bu əlavənin (doğma) kodu var.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Bu əlavənin identifikatoru əlavənin qurucusu tərəfindən müəyyənləşdirilib.
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Bu əlavə son zamanlarda quraşdırılıb (əvvəl silinən əlavə haqqında məlumat saxlanılmayıb).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Bir çox axtarışlar bu axtarış mühərriki ilə yerinə yetirilib 
 
 
 ;Whether this add-on was installed in the application directory or profile directory
