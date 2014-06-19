@@ -163,7 +163,7 @@ Firefox Sağlamlıq Hesabatı Tədbirləri
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox Sağlamlıq Hesabatı (FSH) ölçümünün 4 kateqoriyası var:
 
 
 ;Configuration
@@ -174,15 +174,15 @@ Cihaz təminatı, əməliyyat sistemi, Firefox versiyası
 
 
 ;Customizations
-Customizations
+Özəlləşdirmə
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Əlavələr, say və tip
 
 
 ;Performance
-Performance
+Məhsuldarlıq
 
 
 ;Timing of browser events, rendering, session restores
@@ -194,19 +194,19 @@ Length of session, how old a profile is, count of crashes, count of pages
 
 
 ;Detailed Description
-Detailed Description
+Ətraflı Təsvir
 
 
 ;Metric
-Metric
+Metrik
 
 
 ;Description
-Description
+Təsvir
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM üçün ikili görünüş
 
 
 ;Identifier for this build of the application based on the date the build was started
@@ -214,7 +214,7 @@ Identifier for this build of the application based on the date the build was sta
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Bu struktur üçün sazlanmış əməliyyat sistemi
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
@@ -234,7 +234,7 @@ Identifier unique to the application that indicates it is Firefox or Thunderbird
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Tətbiqin konfiqurasiya olunmuş adı (misal üçün: Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
@@ -242,15 +242,15 @@ The channel this installation checks for application updates (nightly/aurora/bet
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Bu versiyanı quran şirkətin/təchizatçının adı
 
 
 ;The current version of the product
-The current version of the product
+Məhsulun hal-hazırki versiyası
 
 
 ;Number of processor cores
-Number of processor cores
+Prosessor nüvələrinin sayı
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
@@ -258,31 +258,31 @@ Whether the application is currently configured to be the default browser for th
 
 
 ;Locale currently being used
-Locale currently being used
+Hal-hazırda istifadə olunan yer
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM-ın meqabaytlarla tutumu
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Hal-hazırda işləyən Əməmliyyar Sisteminin (kernel) adı
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Hal-hazırda işləyən Əməmliyyar Sisteminin (kernel) versiyası
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko platforma kodunun qurğu təyin edicisi
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko platforma kodunun versiyası
 
 
 ;Processor architecture
-Processor architecture
+Prosessor arxitekturası
 
 
 ;The date this version was first used with this installation profile
@@ -298,7 +298,7 @@ The number of add-ons of this type that existed in the profile on this date
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+Əgər tətbiq əlavəni avtomatik olaraq deaktivləşdirilibsə onda <var>doğrudur</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
@@ -398,11 +398,11 @@ Time in seconds since the app was last started
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Əlfəcinlərin toplam sayı
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Tarixçədə göstərilən səhifələrin toplam sayı
 
 
 ;How long in minutes the current session has been running
@@ -410,11 +410,11 @@ How long in minutes the current session has been running
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Firefox Sağlamlıq Hesabatınıza xoş gəldiniz
 
 
 ;Welcome!
-Welcome!
+Xoş gəldiniz!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
