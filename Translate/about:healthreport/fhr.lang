@@ -3,7 +3,7 @@ Firefox Sağlamlıq Hesabatı
 
 
 ;Raw Data
-Emal Olunmamış Verilən
+Emal Edilməmiş Verilən
 
 
 ;Get insights and performance information about your version of Firefox.
@@ -30,15 +30,15 @@ Sizin Sağlamlıq Hesabatı məlumatınız həm də Mozilla-nın serverlərində
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-Siz bəzən öz məlumatını Mozilla ilə palaşmağı seçmisiniz. Veb üçün daha parlaq gələcək qurmaq missiyaasının bir parçası olduğunuz üçün təşəkkür edirik.
+Siz öz məlumatlarınızı zaman-zaman Mozilla ilə paylaşmağı seçmisiniz. İnternet üçün daha parlaq gələcək qurmaq missiyamızın bir parçası olduğunuz üçün təşəkkürlər.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Bizim məlumatlarınızı necəəldə etdiyimizi <a href="%(privacy_url)s">məxfilik siyasəti</a> öyrənin.
+Məlumatlarınızı necə idarə etdiyimizi <a href="%(privacy_url)s">məxfilik siyasətimizdə</a> öyrənin.
 
 
 ;Vital Stats
-Vital Statistikaları
+Vacib Statistikalar
 
 
 ;version
@@ -79,15 +79,15 @@ deaktivləşdirilib
 
 
 ;Plugins
-Əlavə hissə
+Qoşmalar
 
 
 ;always activate
-həmişə aktivləşdirin
+həmişə aktivləşdir
 
 
 ;ask to activate
-aktivləşdirmə üçün soruşun
+aktivləşdirmə üçün soruş
 
 
 ;never activate
@@ -111,11 +111,11 @@ Qoşulu deyil
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Bizim <a href="%(sumo_url)s">dəstək veb səhifəmizi</a> ziyarət edin
+Bizim <a href="%(sumo_url)s">dəstək saytımızı</a> ziyarət edin
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Daha çox <a href="%(details_url)s">ətraflı məlumata</a> baxın
+Daha <a href="%(details_url)s">ətraflı məlumata</a> baxın
 
 
 ;pages visited
@@ -127,7 +127,7 @@ Sizin səyyah adi hala nisbətən daha yavaş işləyir. Ətraflı öyrənmək �
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-Siz həmçinin maraqlı və ətraflı məlumatı səyyahınızda görə bilərsiniz. Bəzi trendləri görə bilmək üçün bir neçə həftə gerini yoxlayın.
+Səyyahınızı işlətdikcə daha çox maraqlı və ətraflı məlumatlar görə biləcəksiniz. Bəzi trendləri görə bilmək üçün bir neçə həftə gerini yoxlayın.
 
 
 ;Startup Time by Day
@@ -151,15 +151,15 @@ Startup time helps determine how well your version of Firefox is performing. In 
 
 
 ;Data Collected
-Data Collected
+Toplanan Məlumat
 
 
 ;Glossary
-Glossary
+Lüğət
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox Sağlamlıq Hesabatı Tədbirləri
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
