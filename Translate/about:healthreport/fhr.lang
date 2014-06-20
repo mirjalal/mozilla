@@ -47,7 +47,7 @@ versiya
 
 
 ;time open
-time open
+açılış müddəti
 
 
 ;last crash
@@ -255,7 +255,7 @@ Prosessor nüvələrinin sayı
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Bu tətbiq əməliyyat sistemi üçün 
 
 
 ;Locale currently being used
@@ -419,15 +419,15 @@ Xoş gəldiniz!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox Sağlamlıq Hesabatı sizə Firefox-unuzun nə qədər məhsuldar olduğunu və onu inkişaf etdirmək üçün nələr edə biləcəyinizi bilməyə imkan verir.
 
 
 ;See My Report
-See My Report
+Mənim Hesabatıma Bax
 
 
 ;Time (in seconds)
-Time (in seconds)
+Müddət (saniyələrlə)
 
 
 ;Show Statistics
@@ -444,19 +444,19 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Ətraflı öyrən&hellip;
 
 
 ;Tip
-Tip
+Məsləhət
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Görünür sizin Firefox yenidir! Bir müddət istifadə etdikdən sonra yenidən yoxlayın.
 
 
 ;Important Metrics
-Important Metrics
+Vacib Metriklər
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
@@ -464,15 +464,15 @@ Firefox Health Report records information about your browser and device. You can
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Cihaz təminatı, əməliyyat sistemi, Firefox versiyası.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Genişlənmələr, qoşmalar və qurulan əlavələrin sayı.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Başlanma sürəti kimi açar sürət ölçüləri.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
@@ -480,15 +480,15 @@ Browsing duration, install time, number of bookmarks and pages.
 
 
 ;Home
-Home
+Ev
 
 
 ;CPU Count:
-CPU Count:
+Prosessor Sayı:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Android tərəfindən bildirilən prosessor nüvələrinin sayı.
 
 
 ;Memory in MB:
@@ -496,35 +496,35 @@ Memory in MB:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android tərəfindən bildirilən yaddaş miqdarı. Adətən qrafik yaddaş nəzərə alınmır.
 
 
 ;Application Name:
-Application Name:
+Tətbiqin Adı:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Tətbiqin səyyah üçün daxili adı.
 
 
 ;Application ID:
-Application ID:
+Tətbiqin ID-si:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Tətbiq üçün daxili identifikator.
 
 
 ;Application Version:
-Application Version:
+Tətbiqin versiyası:
 
 
 ;The current version of the browser
-The current version of the browser
+Brauzerin hal-hazırki versiyası
 
 
 ;Application Build ID:
-Application Build ID:
+Tətbiqin Qurulma ID-si:
 
 
 ;The internal build timestamp.
@@ -532,7 +532,7 @@ The internal build timestamp.
 
 
 ;Update Channel:
-Update Channel:
+Yenilənmə Kanalı:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
@@ -540,27 +540,27 @@ Firefox is distributed through channels: Nightly builds, the Aurora pre-release 
 
 
 ;Vendor:
-Vendor:
+Satıcı:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Bu tətbiqi quran təşkilat. Adətən Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Platforma Versiyası:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Versiyanın daxili identifikatoru. Adətən tətbiq versiyası ilə eynidir.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Platformanın qurulma ID-si:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Bu, Androiddə appBuildID üçün alternativ addır.
 
 
 ;xpcomabi:
@@ -568,47 +568,47 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Qurulan bu tətbiq üçün processor arxitekturası.
 
 
 ;OS:
-OS:
+ƏS:
 
 
 ;The current operating system.
-The current operating system.
+Hal-hazırki əməliyyat sistemi.
 
 
 ;Architecture:
-Architecture:
+Arxitekturası:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Bu cihazın prosessor arxitekturası.
 
 
 ;System Name:
-System Name:
+Sistemin adı:
 
 
 ;The current system name.
-The current system name.
+Hal-hazırki sistemin adı.
 
 
 ;System Version:
-System Version:
+Sistem Versiyası:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android ƏS-də baxılma.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. İlkin vəziyyət aktivləşdirilib.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetriya Aktivləşdirilib:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
@@ -616,31 +616,31 @@ Whether Firefox reports detailed usage data to help with development. Defaults t
 
 
 ;Extension Count:
-Extension Count:
+Genişlənmələrin Sayı:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Nə qədər genişlənmə qurulub.
 
 
 ;Plugin Count:
-Plugin Count:
+Qoşmaların Sayı:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Nə qədər qoşma qurulub.
 
 
 ;Theme Count:
-Theme Count:
+Mövzu Sayı:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Nə qədər əlavə qurulub.
 
 
 ;Addons:
-Addons:
+Əlavələr:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
@@ -648,7 +648,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Search Counts:
+Sayları Axtar:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -656,7 +656,7 @@ A count of how many searches you issued to each of Mozilla's partner providers.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sessiyalar və Başlama Vaxtları
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
@@ -664,7 +664,7 @@ For each browsing session, Firefox Health Report records approximately how long 
 
 
 ;Profile Creation:
-Profile Creation:
+Profil Yaradılması:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
@@ -672,26 +672,25 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Learn More
+Ətraflı öyrən
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Sağlamlıq Hesabatı (FSH) sizin səyyahınızın məhsuldarlığını məlumatlarını, eyni zamanda . For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Sizin məlumatlarınızı necə əldə etdiyimizi haqqında ətraflı <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>bizim məxfilik siyasətimizdə</a> baxa bilərsiniz.
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Siz hal-hazırda sağlamlıq hesabatınızı Mozilla ilə paylaşırsınız.
 
 
 ;Choose what I share
-Choose what I share
+Nə paylaşmaq istədiyimi seç
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
-
+Siz hal-hazırda sağlamlıq hesabatınızı Mozilla ilə paylaşmırsınız.
 
