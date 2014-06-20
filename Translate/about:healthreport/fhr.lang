@@ -299,15 +299,15 @@ Bu növ əlavələrin sayı bu tarixdə profildə artıq mövcuddur
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-Əgər tətbiq əlavəni avtomatik olaraq deaktivləşdirilibsə onda <var>doğrudur</var>
+Əgər tətbiq əlavəni avtomatik olaraq deaktivləşdirilibsə onda <var>Doğrudur</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Bu əlavə ya istifadəçi tərəfindən ya da avtomatik şəkildə başqa tətbiq tərəfindən yüklənilib.
+Əgər bu əlavə ya istifadəçi tərəfindən ya da avtomatik şəkildə başqa tətbiq tərəfindən yüklənilibsə.
 
 
 ;Whether this add-on has native code.
-Bu əlavənin (doğma) kodu var.
+Əgər bu əlavənin doğma kodu varsa.
 
 
 ;The identifier of this add-on as defined by the add-on developer
@@ -319,7 +319,7 @@ Bu əlavə son zamanlarda quraşdırılıb (əvvəl silinən əlavə haqqında m
 
 
 ;The number of searches performed with this search engine from this part of the UI
-Bir çox axtarışlar bu axtarış mühərriki ilə yerinə yetirilib 
+Bu axtarış mühərriki ilə İnterfeysin bu hissəsindən edilən axtarışların sayı 
 
 
 ;Whether this add-on was installed in the application directory or profile directory
@@ -444,7 +444,7 @@ Firefox Health Report lets you optimize your Firefox and helps us build a more e
 
 
 ;Learn More&hellip;
-Ətraflı öyrən&hellip;
+Ətraflı Öyrən&hellip;
 
 
 ;Tip
@@ -520,7 +520,7 @@ Tətbiqin versiyası:
 
 
 ;The current version of the browser
-Brauzerin hal-hazırki versiyası
+Səyyahınızın hazırki versiyası
 
 
 ;Application Build ID:
