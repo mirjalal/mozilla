@@ -520,7 +520,7 @@ Tətbiqin versiyası:
 
 
 ;The current version of the browser
-Səyyahınızın hazırki versiyası
+Səyyahın hazırki versiyası
 
 
 ;Application Build ID:
@@ -604,7 +604,7 @@ Android ƏS-də baxılma.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. İlkin vəziyyət aktivləşdirilib.
+Firefox sizi ziyanlı əlavələrdən qorumaq üçün əlavələrin qara siyahısını endirir. İlkin vəziyyət aktivləşdirilib.
 
 
 ;Telemetry Enabled:
@@ -628,7 +628,7 @@ Qoşmaların Sayı:
 
 
 ;How many plugin add-ons are installed.
-Nə qədər qoşma qurulub.
+Nə qədər qoşma əlavəsi qurulub.
 
 
 ;Theme Count:
@@ -636,7 +636,7 @@ Mövzu Sayı:
 
 
 ;How many theme add-ons are installed.
-Nə qədər əlavə qurulub.
+Nə qədər mövzü əlavəsi qurulub.
 
 
 ;Addons:
@@ -648,7 +648,7 @@ A collection describing the installed add-ons. Not all add-ons are reported: onl
 
 
 ;Search Counts:
-Sayları Axtar:
+Axtarış Sayısı:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
@@ -672,7 +672,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Learn More
-Ətraflı öyrən
+Ətraflı Öyrən
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
@@ -680,7 +680,7 @@ Firefox Sağlamlıq Hesabatı (FSH) sizin səyyahınızın məhsuldarlığını 
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-Sizin məlumatlarınızı necə əldə etdiyimizi haqqında ətraflı <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>bizim məxfilik siyasətimizdə</a> baxa bilərsiniz.
+Sizin məlumatlarınızı necə işlətdiyimiz haqqında ətraflı <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>bizim məxfilik siyasətimizdə</a> baxa bilərsiniz.
 
 
 ;You are currently sharing your health report with Mozilla.
@@ -688,7 +688,7 @@ Siz hal-hazırda sağlamlıq hesabatınızı Mozilla ilə paylaşırsınız.
 
 
 ;Choose what I share
-Nə paylaşmaq istədiyimi seç
+Nə paylaşmaqdığımı seç
 
 
 ;You are currently not sharing your health report with Mozilla.
