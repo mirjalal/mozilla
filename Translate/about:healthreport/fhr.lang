@@ -69,11 +69,14 @@ qəzalar
 ;Add-ons
 Əlavələr
 
+
 ;View List
 Görünüş siyahısı
 
+
 ;enabled
 aktivləşdirilib
+
 
 ;disabled
 deaktivləşdirilib
@@ -170,6 +173,7 @@ Firefox Sağlamlıq Hesabatı (FSH) ölçümünün 4 kateqoriyası var:
 ;Configuration
 Konfiqurasiya
 
+
 ;Device hardware, operating system, Firefox version
 Cihaz təminatı, əməliyyat sistemi, Firefox versiyası
 
@@ -211,7 +215,7 @@ XPCOM üçün ikili görünüş
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Bu tətbiqin identifikatoru onun yaranma tarixinə əsasən müəyyən edilib
 
 
 ;Operating System for which this build was configured
@@ -516,7 +520,7 @@ Tətbiq üçün daxili identifikator.
 
 
 ;Application Version:
-Tətbiqin versiyası:
+Tətbiqin Versiyası:
 
 
 ;The current version of the browser
@@ -588,7 +592,7 @@ Bu cihazın prosessor arxitekturası.
 
 
 ;System Name:
-Sistemin adı:
+Sistemin Adı:
 
 
 ;The current system name.
@@ -676,7 +680,7 @@ The day on which your browser profile was created. Counted in days since January
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Sağlamlıq Hesabatı (FSH) sizin səyyahınızın məhsuldarlığını məlumatlarını, eyni zamanda . For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
