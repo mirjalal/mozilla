@@ -67,7 +67,7 @@ qəzalar
 
 
 ;Add-ons
-Əlavələr
+Əlavə qoşmalar
 
 
 ;View List
@@ -223,7 +223,7 @@ Bu struktur üçün sazlanmış əməliyyat sistemi
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
@@ -464,7 +464,7 @@ Vacib Metriklər
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+firefox Sağlamlıq hesabatı səyyah ve cıhazınız haqqında məlumatı yazır. Siz <a href="#raw" class="navigate">bizim yazdığımız məlumatı görə bilərsiniz.</a> Hətta siz Mozilla ilə nə paylaşdığınızı da görə bilərsiniz.
 
 
 ;Device hardware, operating system, Firefox version.
