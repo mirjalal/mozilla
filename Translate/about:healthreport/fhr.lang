@@ -1,45 +1,45 @@
 ;Firefox Health Report
-Firefox sağlamlıq hesabatı
+Firefox Sağlamlıq Hesabatı
 
 
 ;Raw Data
-Emal olunmamış verilən
+Emal Edilməmiş Verilən
 
 
 ;Get insights and performance information about your version of Firefox.
-Get insights and performance information about your version of Firefox.
+Firefox-unuzun versiyasının anlayış və məhsuldarlığı haqqında məlumat alın.
 
 
 ;Learn more...
-Daha çox məlumat...
+Ətraflı öyrən...
 
 
 ;Data Sharing
-Məlumat paylaşma
+Məlumat Paylaşma
 
 
 ;ON
-ON
+Qoşuludur
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
+Siz məlumatın Mozilla ilə paylaşımını dayardırmısınız, lakin siz hələ də səyyahınızın məhsuldarlığına baxa bilərsiniz.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
-Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
+Sizin Sağlamlıq Hesabatı məlumatınız həm də Mozilla-nın serverlərindən silinəcək. Ətraflı olaraq bizim <a href="%(privacy_url)s">məxfilik siyasətində</a> öyrənin.
 
 
 ;You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
-You've chosen to share your data with Mozilla from time to time. Thanks for being part of our mission to build a brighter future for the Web.
+Siz öz məlumatlarınızı zaman-zaman Mozilla ilə paylaşmağı seçmisiniz. İnternet üçün daha parlaq gələcək qurmaq missiyamızın bir parçası olduğunuz üçün təşəkkürlər.
 
 
 ;Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
-Learn how we handle your data in our <a href="%(privacy_url)s">privacy policy.</a>
+Məlumatlarınızı necə idarə etdiyimizi <a href="%(privacy_url)s">məxfilik siyasətimizdə</a> öyrənin.
 
 
 ;Vital Stats
-Vital Stats
+Vacib Statistikalar
 
 
 ;version
@@ -47,303 +47,303 @@ versiya
 
 
 ;time open
-time open
+açılış müddəti
 
 
 ;last crash
-last crash
+son qəza
 
 
 ;bookmarks
-bookmarks
+əlfəcinlər
 
 
 ;This Month
-This Month
+Bu Ay
 
 
 ;crashes
-crashes
+qəzalar
 
 
 ;Add-ons
-Add-ons
+Əlavələr
 
 
 ;View List
-View List
+Görünüş siyahısı
 
 
 ;enabled
-enabled
+aktivləşdirilib
 
 
 ;disabled
-disabled
+deaktivləşdirilib
 
 
 ;Plugins
-Plugins
+Qoşmalar
 
 
 ;always activate
-always activate
+həmişə aktivləşdir
 
 
 ;ask to activate
-ask to activate
+aktivləşdirmə üçün soruş
 
 
 ;never activate
-never activate
+heç vaxt aktivləşdirmə
 
 
 ;Tips
-Tips
+Məsləhətlər
 
 
 ;Wear and Tear
-Wear and Tear
+Köhnəltmək
 
 
 ;It looks like your browser has crashed a number of times recently. To learn more:
-It looks like your browser has crashed a number of times recently. To learn more:
+Görünür sizin səyyah son vaxtlarda bir neçə dəfə qəzaya uğrayıb. Ətraflı öyrənmək üçün:
 
 
 ;OFF
-OFF
+Qoşulu deyil
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
-Visit our <a href="%(sumo_url)s">support website</a>
+Bizim <a href="%(sumo_url)s">dəstək saytımızı</a> ziyarət edin
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-View more <a href="%(details_url)s">detailed information</a>
+Daha <a href="%(details_url)s">ətraflı məlumata</a> baxın
 
 
 ;pages visited
-pages visited
+ziyarət olunmuş səhifələr
 
 
 ;Your browser seems to be running slower than usual. To learn more:
-Your browser seems to be running slower than usual. To learn more:
+Sizin səyyah adi hala nisbətən daha yavaş işləyir. Ətraflı öyrənmək üçün:
 
 
 ;You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
-You'll be able to see more interesting and detailed information the more you use your browser. Check back in a couple of weeks to start seeing some trends.
+Səyyahınızı işlətdikcə daha çox maraqlı və ətraflı məlumatlar görə biləcəksiniz. Bəzi trendləri görə bilmək üçün bir neçə həftə gerini yoxlayın.
 
 
 ;Startup Time by Day
-Startup Time by Day
+Günlük Başlama Vaxtı
 
 
 ;Graph:
-Graph:
+Qrafik:
 
 
 ;Average
-Average
+Orta
 
 
 ;All
-All
+Hamısı
 
 
 ;Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
-Startup time helps determine how well your version of Firefox is performing. In general, faster times (i.e. less time) indicate better performance.
+Başlama vaxtı Firefox versiyanızın performansını ölçməyə kömək edir. Əsasən, sürətli vaxt (yani daha az vaxt) daha yaxşı performans demək olur.
 
 
 ;Data Collected
-Data Collected
+Toplanan Məlumat
 
 
 ;Glossary
-Glossary
+Lüğət
 
 
 ;What the Firefox Health Report Measures
-What the Firefox Health Report Measures
+Firefox Sağlamlıq Hesabatı Tədbirləri
 
 
 ;The Firefox Health Report (FHR) has 4 categories of metrics:
-The Firefox Health Report (FHR) has 4 categories of metrics:
+Firefox Sağlamlıq Hesabatı (FSH) ölçümünün 4 kateqoriyası var:
 
 
 ;Configuration
-Configuration
+Konfiqurasiya
 
 
 ;Device hardware, operating system, Firefox version
-Device hardware, operating system, Firefox version
+Cihaz təminatı, əməliyyat sistemi, Firefox versiyası
 
 
 ;Customizations
-Customizations
+Özəlləşdirmə
 
 
 ;Add-ons, count and type
-Add-ons, count and type
+Əlavələr, say və tip
 
 
 ;Performance
-Performance
+Məhsuldarlıq
 
 
 ;Timing of browser events, rendering, session restores
-Timing of browser events, rendering, session restores
+Səyyah hadisələri, (render), sessiya bərpası müddəti
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
-Length of session, how old a profile is, count of crashes, count of pages
+Sessiyanın uzunluğu, profilin yaşı, qəzaların sayı, səhifələrin sayı
 
 
 ;Detailed Description
-Detailed Description
+Ətraflı Təsvir
 
 
 ;Metric
-Metric
+Metrik
 
 
 ;Description
-Description
+Təsvir
 
 
 ;Binary interface for XPCOM
-Binary interface for XPCOM
+XPCOM üçün ikili görünüş
 
 
 ;Identifier for this build of the application based on the date the build was started
-Identifier for this build of the application based on the date the build was started
+Bu tətbiqin identifikatoru onun yaranma tarixinə əsasən müəyyən edilib
 
 
 ;Operating System for which this build was configured
-Operating System for which this build was configured
+Bu struktur üçün sazlanmış əməliyyat sistemi
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
+Tətbiqin xüsusi paylanma identifikatoru istifadədədir. Bu <var>paylanma.id-nin</var> üstünlüklərindən götürülür
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Paylanmanın versiyası, <var>paylanma.versiyasının</var> üstünlüklərindən götürülür
 
 
 ;The version number of any Mozilla hotfix applied to the application
-The version number of any Mozilla hotfix applied to the application
+İstənilən Mozilla tətbiq düzəltmə tətbiqli versiya sayı
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
+Firefox identifikatoru, Thunderbird yaxud başqa bir tətbiq olduğunu müəyyən edən tətbiq üçün özünəməxsus və yeganədir. Bu tətbiqin <var>tətbiqAdı</var> dəyərindən asılı olmayaraq, bütün quraşdırmalar üçün eynidir.
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
-The configured name of the application (Firefox/Aurora/Nightly for instance)
+Tətbiqin konfiqurasiya olunmuş adı (məsələn: Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Bu quraşdırmanın kanalı tətbiq yeniləmələrini yoxlayır (gecə/aurora/beta/reliz)
 
 
 ;The name of the company/provider who built this version
-The name of the company/provider who built this version
+Bu versiyanı quran şirkətin/təchizatçının adı
 
 
 ;The current version of the product
-The current version of the product
+Məhsulun hal-hazırki versiyası
 
 
 ;Number of processor cores
-Number of processor cores
+Prosessor nüvələrinin sayı
 
 
 ;Whether the application is currently configured to be the default browser for the operating system
-Whether the application is currently configured to be the default browser for the operating system
+Bu tətbiq əməliyyat sistemi üçün 
 
 
 ;Locale currently being used
-Locale currently being used
+Hal-hazırda istifadə olunan dil
 
 
 ;Amount of RAM in megabytes
-Amount of RAM in megabytes
+RAM-ın meqabaytlarla tutumu
 
 
 ;Currently running Operating System (kernel) name
-Currently running Operating System (kernel) name
+Hal-hazırda işləyən Əməmliyyar Sisteminin (kernel) adı
 
 
 ;Currently running Operating System (kernel) version
-Currently running Operating System (kernel) version
+Hal-hazırda işləyən Əməmliyyar Sisteminin (kernel) versiyası
 
 
 ;The build identifier of the Gecko platform code
-The build identifier of the Gecko platform code
+Gecko platforma kodunun qurğu identifikatoru
 
 
 ;The version of the Gecko platform code
-The version of the Gecko platform code
+Gecko platforma kodunun versiyası
 
 
 ;Processor architecture
-Processor architecture
+Prosessor arxitekturası
 
 
 ;The date this version was first used with this installation profile
-The date this version was first used with this installation profile
+Bu versiyanın tarixi ilk dəfə quraşdırma profilində istifadə olunub. 
 
 
 ;An application version which has been used with this installation profile
-An application version which has been used with this installation profile
+Bu quraşdırma profili ilə istifadə olunmuş tətbiqin versiyası 
 
 
 ;The number of add-ons of this type that existed in the profile on this date
-The number of add-ons of this type that existed in the profile on this date
+Bu növ əlavələrin sayı bu tarixdə profildə artıq mövcuddur
 
 
 ;<var>True</var> if the application automatically disabled the add-on
-<var>True</var> if the application automatically disabled the add-on
+Əgər tətbiq əlavəni avtomatik olaraq deaktivləşdirilibsə onda <var>Doğrudur</var>
 
 
 ;Whether this add-on was installed by the user or automatically by another application
-Whether this add-on was installed by the user or automatically by another application
+Əgər bu əlavə ya istifadəçi tərəfindən ya da avtomatik şəkildə başqa tətbiq tərəfindən yüklənilibsə.
 
 
 ;Whether this add-on has native code.
-Whether this add-on has native code.
+Əgər bu əlavənin doğma kodu varsa.
 
 
 ;The identifier of this add-on as defined by the add-on developer
-The identifier of this add-on as defined by the add-on developer
+Bu əlavənin identifikatoru əlavənin qurucusu tərəfindən müəyyənləşdirilib.
 
 
 ;The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was installed (previous information about an uninstalled add-on is not kept).
+Bu əlavə son zamanlarda quraşdırılıb (əvvəl silinən əlavə haqqında məlumat saxlanılmayıb).
 
 
 ;The number of searches performed with this search engine from this part of the UI
-The number of searches performed with this search engine from this part of the UI
+Bu axtarış mühərriki ilə İnterfeysin bu hissəsindən edilən axtarışların sayı 
 
 
 ;Whether this add-on was installed in the application directory or profile directory
-Whether this add-on was installed in the application directory or profile directory
+Bu əlavə ya tətbiqin rəhbərində ya da profil rəhbərində quraşdırılıb
 
 
 ;Whether this add-on is an extension or a plug-in
-Whether this add-on is an extension or a plug-in
+Bu əlavə ya genişlənmədir ya da qoşma
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Bu əlavənin tez-tez yenilənmə tarixi (silinən əvvəlki əlavələr haqqında məlumat saxlanılmayıb).
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> if the user manually disabled the add-on
+Əgər istifadəçi özü əlavəni deaktiv edibsə <var>Doğru</var> olacaq
 
 
 ;The current version of this add-on
-The current version of this add-on
+Bu əlavənin mövcud versiyası
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -359,39 +359,39 @@ How long in milliseconds it took during startup for the application to restore t
 
 
 ;The number of times the application was run and not cleanly shut down.
-The number of times the application was run and not cleanly shut down.
+Tətbiqin düzgün qaydada neçə dəfə işlədiyi və səhv qaydada neçə dəfə bitmə sayı.
 
 
 ;The time in seconds that the aborted sessions were not idle
-The time in seconds that the aborted sessions were not idle
+Təxirə salınmış boş olmayan sessiyaların saniyələrlə müddəti
 
 
 ;The time in seconds that the aborted sessions were running
-The time in seconds that the aborted sessions were running
+Sessiyaların təxirə salınana qədərki işləmə müddətinin saniyələrlə ölçüsü
 
 
 ;The number of days since this application profile directory was created
-The number of days since this application profile directory was created
+Tətbiqin profil rəhbərinin indiyə yaradılmasından indiyə qədər keçən müddətin günlərlə sayı
 
 
 ;The number of times the application was run and cleanly shut down.
-The number of times the application was run and cleanly shut down.
+Tətbiqin düzgün qaydada işləmə və bitmə sayı.
 
 
 ;The time in seconds that the completed sessions were not idle
-The time in seconds that the completed sessions were not idle
+Tamamlanmış boş olmayan sessiyaların saniyələrlə müddəti
 
 
 ;The time in seconds that the completed sessions were running
-The time in seconds that the completed sessions were running
+Tamamlanmış sessiyaların saniyələrlə işləmə müddəti
 
 
 ;Total number of crashes that were recorded but not yet submitted
-Total number of crashes that were recorded but not yet submitted
+Qeydə alınan amma hələ də təsdiqlənməmiş qəzaların ümumi sayı
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
+Təsdiqlənmiş qəzaların ümumi sayı
 
 
 ;Time in seconds the app has not been idle
@@ -399,39 +399,39 @@ Time in seconds the app has not been idle
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Tətbiqin saniyələrlə başlanma vaxtı
 
 
 ;Total number of bookmarks
-Total number of bookmarks
+Əlfəcinlərin toplam sayı
 
 
 ;Total number of pages listed in the history
-Total number of pages listed in the history
+Tarixçədə göstərilən səhifələrin toplam sayı
 
 
 ;How long in minutes the current session has been running
-How long in minutes the current session has been running
+Mövcud sessiyanın dəqiqələrlə işləmə vaxtı
 
 
 ;Welcome to your Firefox Health Report
-Welcome to your Firefox Health Report
+Firefox Sağlamlıq Hesabatınıza xoş gəldiniz
 
 
 ;Welcome!
-Welcome!
+Xoş gəldiniz!
 
 
 ;Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
-Firefox Health Report lets you know how your Firefox is performing and what you can do to improve it.
+Firefox Sağlamlıq Hesabatı sizə Firefox-unuzun nə qədər məhsuldar olduğunu və onu inkişaf etdirmək üçün nələr edə biləcəyinizi bilməyə imkan verir.
 
 
 ;See My Report
-See My Report
+Hesabatımı Göstər
 
 
 ;Time (in seconds)
-Time (in seconds)
+Müddət (saniyələrlə)
 
 
 ;Show Statistics
@@ -444,127 +444,127 @@ Məxfilik Siyasəti
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox Sağlamlıq Hesabatı sizə Firefox-nuzu optimizasiya etməyə, bizə isə daha möhtəşəm səyyah yaratmağa kömək edir. İlk dövrlərdə məruzələr çox sadə olacaq, amma böyüyüb və inkişaf davam edəcək.
 
 
 ;Learn More&hellip;
-Learn More&hellip;
+Ətraflı Öyrən&hellip;
 
 
 ;Tip
-Tip
+Məsləhət
 
 
 ;Looks like your Firefox is brand new! Check back after using Firefox for a while.
-Looks like your Firefox is brand new! Check back after using Firefox for a while.
+Görünür sizin Firefox yenidir! Bir müddət istifadə etdikdən sonra yenidən yoxlayın.
 
 
 ;Important Metrics
-Important Metrics
+Vacib Metriklər
 
 
 ;Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
-Firefox Health Report records information about your browser and device. You can <a href="#raw" class="navigate">see the information we record.</a> You can also see what you share with Mozilla.
+Firefox Sağlamlıq Hesabatı sizin səyyah və cihazınız haqqında məlumatları yazır. Siz <a href="#raw" class="navigate">bizim yazdığımız məlumatlara</a> baxa bilərsiniz. Hətta siz Mozilla ilə nə paylaşdığınızı da görə bilərsiniz.
 
 
 ;Device hardware, operating system, Firefox version.
-Device hardware, operating system, Firefox version.
+Cihaz təminatı, əməliyyat sistemi, Firefox versiyası.
 
 
 ;Extensions, plugins, and number of installed add-ons.
-Extensions, plugins, and number of installed add-ons.
+Genişlənmələr, qoşmalar və qurulan əlavələrin sayı.
 
 
 ;Key performance measures, such as launch speed.
-Key performance measures, such as launch speed.
+Başlanma sürəti kimi açar sürət ölçüləri.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Səyahət müddəti, quraşdırma vaxtı, əlfəcinlərin və səhifələrin sayı.
 
 
 ;Home
-Home
+Ev
 
 
 ;CPU Count:
-CPU Count:
+Prosessor Sayı:
 
 
 ;The number of CPU cores reported by Android.
-The number of CPU cores reported by Android.
+Android tərəfindən bildirilən prosessor nüvələrinin sayı.
 
 
 ;Memory in MB:
-Memory in MB:
+MB ilə Yaddaş:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
-The amount of memory reported by Android. Typically excludes graphics memory.
+Android tərəfindən bildirilən yaddaş miqdarı. Adətən qrafik yaddaş nəzərə alınmır.
 
 
 ;Application Name:
-Application Name:
+Tətbiqin Adı:
 
 
 ;The internal application name for the browser.
-The internal application name for the browser.
+Tətbiqin səyyah üçün daxili adı.
 
 
 ;Application ID:
-Application ID:
+Tətbiqin ID-si:
 
 
 ;The internal identifier for the application.
-The internal identifier for the application.
+Tətbiq üçün daxili identifikator.
 
 
 ;Application Version:
-Application Version:
+Tətbiqin Versiyası:
 
 
 ;The current version of the browser
-The current version of the browser
+Səyyahın hazırki versiyası
 
 
 ;Application Build ID:
-Application Build ID:
+Tətbiqin Qurulma ID-si:
 
 
 ;The internal build timestamp.
-The internal build timestamp.
+Daxili qurma "damğası".
 
 
 ;Update Channel:
-Update Channel:
+Yenilənmə Kanalı:
 
 
 ;Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
-Firefox is distributed through channels: Nightly builds, the Aurora pre-release channel, a stable Beta, and the public release. This field identifies the channel.
+Firefox kanallar vasitəsilə paylayır: Gecə qurmaları, pre-reliz Aurora, stabil Beta və ictimai reliz. Bu xana kanalı müəyyən edir.
 
 
 ;Vendor:
-Vendor:
+Satıcı:
 
 
 ;The organization that built this application. Typically Mozilla.
-The organization that built this application. Typically Mozilla.
+Bu tətbiqi quran təşkilat. Adətən Mozilla.
 
 
 ;Platform Version:
-Platform Version:
+Platforma Versiyası:
 
 
 ;An internal version identifier. Typically the same as appVersion.
-An internal version identifier. Typically the same as appVersion.
+Versiyanın daxili identifikatoru. Adətən tətbiq versiyası ilə eynidir.
 
 
 ;Platform Build ID:
-Platform Build ID:
+Platformanın qurulma ID-si:
 
 
 ;On Android this is an alternative name for appBuildID.
-On Android this is an alternative name for appBuildID.
+Bu, Androiddə appBuildID üçün alternativ addır.
 
 
 ;xpcomabi:
@@ -572,130 +572,130 @@ xpcomabi:
 
 
 ;The CPU architecture for which this application was built.
-The CPU architecture for which this application was built.
+Qurulan bu tətbiq üçün processor arxitekturası.
 
 
 ;OS:
-OS:
+ƏS:
 
 
 ;The current operating system.
-The current operating system.
+Hal-hazırki əməliyyat sistemi.
 
 
 ;Architecture:
-Architecture:
+Arxitekturası:
 
 
 ;The CPU architecture for this device.
-The CPU architecture for this device.
+Bu cihazın prosessor arxitekturası.
 
 
 ;System Name:
-System Name:
+Sistemin Adı:
 
 
 ;The current system name.
-The current system name.
+Hal-hazırki sistemin adı.
 
 
 ;System Version:
-System Version:
+Sistem Versiyası:
 
 
 ;The Android OS revision.
-The Android OS revision.
+Android ƏS-də baxılma.
 
 
 ;Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
-Whether Firefox fetches add-on blocklist results to protect you against malicious add-ons. Defaults to on.
+Firefox sizi ziyanlı əlavələrdən qorumaq üçün əlavələrin qara siyahısını endirir. İlkin vəziyyət aktivləşdirilib.
 
 
 ;Telemetry Enabled:
-Telemetry Enabled:
+Telemetriya Aktivləşdirilib:
 
 
 ;Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
-Whether Firefox reports detailed usage data to help with development. Defaults to off for most channels.
+Firefox inkişafda kömək üçün məlumat istifadəsini sizə raport edir. İlkin vəziyyət kimi bir çox kanallar üçün deaktivdir.
 
 
 ;Extension Count:
-Extension Count:
+Genişlənmələrin Sayı:
 
 
 ;How many extension add-ons are installed.
-How many extension add-ons are installed.
+Nə qədər genişlənmə qurulub.
 
 
 ;Plugin Count:
-Plugin Count:
+Qoşmaların Sayı:
 
 
 ;How many plugin add-ons are installed.
-How many plugin add-ons are installed.
+Nə qədər qoşma əlavəsi qurulub.
 
 
 ;Theme Count:
-Theme Count:
+Mövzu Sayı:
 
 
 ;How many theme add-ons are installed.
-How many theme add-ons are installed.
+Nə qədər mövzü əlavəsi qurulub.
 
 
 ;Addons:
-Addons:
+Əlavələr:
 
 
 ;A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
-A collection describing the installed add-ons. Not all add-ons are reported: only plugins, extensions, and services.
+Kolleksiya əlavə qoşmaları təsvir edir. Heç də bütün qoşmalar məruzə olunmayıb: yalnız qoşmalar, genişlənmələr və servislər.
 
 
 ;Search Counts:
-Search Counts:
+Axtarış Sayısı:
 
 
 ;A count of how many searches you issued to each of Mozilla's partner providers.
-A count of how many searches you issued to each of Mozilla's partner providers.
+Mozilla-nın hər bir ortaq təchizatçısına nə qədər axtarış verdiyinizin sayı.
 
 
 ;Sessions and Startup Times
-Sessions and Startup Times
+Sessiyalar və Başlama Vaxtları
 
 
 ;For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
-For each browsing session, Firefox Health Report records approximately how long you browsed (in seconds), and whether the session ended normally or because of a crash. Also includes startup times (in milliseconds) if available.
+Hər bir səyahət sessiyasına görə, Firefox Sağlamlıq Hesabatı sizin təxminən nə qədər müddət səyahət etdiyinizi (saniyələrlə), və sessiyanızın normal və ya qəza səbəbindən bitməsini yazır. Həmçinin əgər varsa başlama vaxtı (millisaniyələrlə) göstərilir.
 
 
 ;Profile Creation:
-Profile Creation:
+Profil Yaradılması:
 
 
 ;The day on which your browser profile was created. Counted in days since January 1st 1970.
-The day on which your browser profile was created. Counted in days since January 1st 1970.
+Sizin səyyah profilinizin yarandığı gün. 1 Yanvar 1970-ci ildən bəri günlərlə hesablanır.
 
 
 ;Learn More
-Learn More
+Ətraflı Öyrən
 
 
 ;Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
-Firefox Health Report (FHR) analyses your browser's performance information, in order to provide you with useful tips that help you get the best from Firefox. For more information on Firefox Health Report, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>visit the Mozilla Support section.</a>
+Firefox Sağlamlıq Hesabatı (FSH) sizin səyyahınızın məhsuldalığını analiz edir, eyni zamanda daha mükəmməl Firefox-a sahib olmağınız üçün sizi faydalı məsləhətlər ilə təmin edəcək. Firefox Sağlamlıq Hesabatı haqqında daha ətraflı məlumat üçün <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>Mozilla Dəstək bölməsini ziyarət edin.</a>
 
 
 ;For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
-For more information about how we handle your data, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>see our privacy policy.</a>
+Sizin məlumatlarınızı necə işlətdiyimiz haqqında ətraflı <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>bizim məxfilik siyasətimizdə</a> baxa bilərsiniz.
 
 
 ;You are currently sharing your health report with Mozilla.
-You are currently sharing your health report with Mozilla.
+Siz hal-hazırda sağlamlıq hesabatınızı Mozilla ilə paylaşırsınız.
 
 
 ;Choose what I share
-Choose what I share
+Nə Paylaşdığımı Seç
 
 
 ;You are currently not sharing your health report with Mozilla.
-You are currently not sharing your health report with Mozilla.
+Siz hal-hazırda sağlamlıq hesabatınızı Mozilla ilə paylaşmırsınız.
 
 
