@@ -223,15 +223,15 @@ Bu struktur üçün sazlanmış əməliyyat sistemi
 
 
 ;Identifier for the particular distribution of the application in use. It is taken from the <var>distribution.id</var> preference
-Tətbiqin xüsusi paylanma identifikatoru istifadədədir. Bu <var>paylanma.id-nin</var> üstünlüklərindən götürülür
+Tətbiqin xüsusi paylanma identifikatoru istifadədədir. Bu <var>paylanma.id</var> nizamlamalarından götürülüb
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Paylanmanın versiyası, <var>paylanma.versiyasının</var> üstünlüklərindən götürülür
+Paylanmanın versiyası, <var>paylanma.versiyası</var> nizamlamalarından götürülüb
 
 
 ;The version number of any Mozilla hotfix applied to the application
-İstənilən Mozilla tətbiq düzəltmə tətbiqli versiya sayı
+Proqrama tətbiq edilmiş hər hansı bir Mozilla vacib düzəltmənin versiya nömrəsi
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
