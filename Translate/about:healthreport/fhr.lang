@@ -235,7 +235,7 @@ Proqrama tətbiq edilmiş hər hansı bir Mozilla vacib düzəltmənin versiya n
 
 
 ;Identifier unique to the application that indicates it is Firefox or Thunderbird, etc. Same for all installations of an application regardless of the value of <var>appName</var>
-Firefox identifikatoru, Thunderbird yaxud başqa bir tətbiq olduğunu müəyyən edən tətbiq üçün özünəməxsus və yeganədir. Bu tətbiqin <var>tətbiqAdı</var> dəyərindən asılı olmayaraq, bütün quraşdırmalar üçün eynidir.
+İdentifikator hər tətbiqetmə üçün unikaldır və titbiqin Firefox, Thunderbird və ya başqa olmasını göstərir. Tətbiqin <var>appName</var> dəyərindən asılı olmayaraq, bütün quraşdırmalar üçün bu eynidir.
 
 
 ;The configured name of the application (Firefox/Aurora/Nightly for instance)
